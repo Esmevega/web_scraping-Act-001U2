@@ -13,4 +13,4 @@ Instruciones para instalar el proyecto
 2.- npm install puppeteer
 
 Ejecutar el proyecto:
-1.- node app.js
+1.- node index.js
