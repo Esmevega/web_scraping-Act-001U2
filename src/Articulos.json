@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Announcing Angular v20",
+    "description": "The past couple of years have been transformative for Angular, as we’ve unleashed major advancements like reactivity with Signals and the…",
+    "author": "Minko Gechev",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+    "date": "May 28",
+    "likes": "2.6K",
+    "comments": "31"
+  },
+  {
+    "title": "Build AI-Powered Apps With Genkit and Angular",
+    "description": "There has never been a better time to start building with AI and the state-of-the-art models available to developers everywhere. Building…",
+    "author": "Angular",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+    "date": "Mar 17",
+    "likes": "225",
+    "comments": "6"
+  },
+  {
+    "title": "Seamless data fetching with httpResource",
+    "description": "Fantastic new APIs are coming to Angular. Two years ago, we proposed making Angular a reactive web framework powered by signals. Since…",
+    "author": "Matthieu Riegler",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/0*AlVzEVl10P09VRZx.jpg",
+    "date": "Mar 7",
+    "likes": "548",
+    "comments": "8"
+  },
+  {
+    "title": "Angular 19.2 Is Now Available",
+    "description": "And we’re back with Angular’s latest minor release, version 19.2, bringing new APIs and experimental features to empower developers on…",
+    "author": "Angular",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+    "date": "Mar 5",
+    "likes": "584",
+    "comments": "12"
+  },
+  {
+    "title": "Micro Frontends with Angular and Native Federation",
+    "description": "Enterprise-scale software systems are often implemented by several cross-functional teams. To enable such teams to provide new features…",
+    "author": "Manfred Steyer",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/0*ie_F70F4bb0alhdm",
+    "date": "Feb 10",
+    "likes": "659",
+    "comments": "11"
+  },
+  {
+    "title": "Angular 2025 Strategy",
+    "description": "For the past two and a half years, we’ve been laser focused on improving developer experience and performance for all Angular developers…",
+    "author": "Minko Gechev",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+    "date": "Jan 13",
+    "likes": "1.4K",
+    "comments": "26"
+  },
+  {
+    "title": "Try Out the New Signal Input Migrations",
+    "description": "Authors: Paul Gschwendtner Mark Thompson",
+    "author": "Angular",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+    "date": "Jan 9",
+    "likes": "359",
+    "comments": "3"
+  },
+  {
+    "title": "Meet Angular v19",
+    "description": "In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…",
+    "author": "Minko Gechev",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*PC5hsShK0vnUFfFVoWjMNg.jpeg",
+    "date": "Nov 19, 2024",
+    "likes": "3.7K",
+    "comments": "59"
+  },
+  {
+    "title": "Angular v19 Release: Join the Watch Parties!",
+    "description": "The Angular v19 release is just around the corner, and developers around the world are gearing up to celebrate.",
+    "author": "Angular",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+    "date": "Nov 14, 2024",
+    "likes": "266",
+    "comments": "3"
+  },
+  {
+    "title": "Latest updates to effect() in Angular",
+    "description": "Authors: Alex Rickabaugh Mark Thompson",
+    "author": "Angular",
+    "avatar": "https://miro.medium.com/v2/resize:fill:40:40/1*jlg3PXZ6PYdUGy40tXybKw.gif",
+    "date": "Oct 7, 2024",
+    "likes": "640",
+    "comments": "1"
+  }
+]
